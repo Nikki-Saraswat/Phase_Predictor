@@ -1,1 +1,3 @@
-# Phase_Predictor
+This project is under consideration for a research publication. So till its not publishing, the code and algorithm applied for this code is private. 
+But the basic information about the project is:
+From the past experiments it can be inferenced that the phase formation of alloys usually depends on the composition of alloy and its thermodynamic parameters. In this project, we employed our own model to predict the phase formation in alloys. We have used the dataset in which three phases  are present(AM, SS, IM) in the alloys. The objective is to obtain a relationship between different elemental properties and phases through which the phase of alloy can be predicted by the help of elemental properties. 
